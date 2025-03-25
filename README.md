@@ -1,3 +1,5 @@
+![top](./top.png)
+
 # 💫 About Me
 Computer Engineering Student | Technological Institute of the Philippines - Quezon City<br><br>**_If it can be done in 5 minutes, I can perfect it and have it done in 5 hours_**<br><br>🚀 Aspiring Web Developer / Software Engineer<br>🚀 Front-end and Back-end Development (Web and Native)<br>🚀 Data Analytics, Data Visualization, and AI/ML<br>🚀 DevOps and Automation Software Development<br>🚀 Intelligent Systems and IoT<br>🚀 Filmmaker and Video Editor<br>
 
@@ -20,4 +22,5 @@ Computer Engineering Student | Technological Institute of the Philippines - Quez
 ---
 [![](https://visitcount.itsvg.in/api?id=PagP332&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![bottom](./bottom.png)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
