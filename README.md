@@ -1,7 +1,7 @@
 ![top](./top.png)
 
 # 💫 About Me
-Computer Engineering Student | Technological Institute of the Philippines - Quezon City<br><br>**_If it ain't broke, don't fix it. If it's stupid and it works, it ain't stupid_**<br><br>🚀 Freelance Full-stack & Native Developer<br>🚀 Aspiring Web Developer / Software Engineer<br>🚀 Data Analytics, Data Visualization, and AI/ML<br>🚀 DevOps and Automation Software Development<br>🚀 Intelligent Systems and IoT<br>🚀 Filmmaker and Video Editor<br>
+Computer Engineering Student | Technological Institute of the Philippines - Quezon City<br><br>**_If it ain't broke, don't fix it. If it's stupid and it works, it ain't stupid_**<br><br>🚀 **Freelance Full-stack & Native Developer**<br>🚀 Aspiring Web Developer / Software Engineer<br>🚀 Data Analytics, Data Visualization, and AI/ML<br>🚀 DevOps and Automation Software Development<br>🚀 Intelligent Systems and IoT<br>🚀 Filmmaker and Video Editor<br>
 
 
 ## 🌐 Contact Me!
